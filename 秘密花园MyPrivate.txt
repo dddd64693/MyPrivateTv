@@ -20,8 +20,6 @@ k频道,http://ali.hlspull.yximgs.com:80/live/b6c9bf7727c6685914d1e5d08caf50d8.f
 e频道,http://ali.hlspull.yximgs.com:80/live/94ba4cbb5ccfa6610822f3565679cd51.flv
 松3,http://ali.hlspull.yximgs.com:80/live/0c6a77a9a7a0b649242b4ee9c25b4ba0.flv
 松1,http://ali.hlspull.yximgs.com:80/live/c71885f5a6b7ac11130fd9373a3a63d4.flv
-以上为临时源,https://cf005.paopao.video:443/8FD49DF7895AED29D436FF2D3A28828D6FD808FB
-无信号请重启软件,https://cf005.paopao.video:443/8FD49DF7895AED29D436FF2D3A28828D6FD808FB
 pigoo,https://luong.utako.moe/pigoo/index.m3u8 
 俄罗斯,#genre#
 EroLuxe Japanese,http://cdntv.online/high/ynemik5cl9/1694.mpeg
