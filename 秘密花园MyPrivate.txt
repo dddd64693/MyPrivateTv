@@ -7,10 +7,10 @@ pigo,http://ali.hlspull.yximgs.com:80/live/5bcf75a5e2b0610a5abc7d8e448d63b7.flv
 动物世界,http://v2.catcast.tv/content/40546/index.m3u8
 Кино 18+ International,https://v2.catcast.tv/content/40381/index.m3u8
 私房写真,https://luong.utako.moe/pigoo/index.m3u8
-Zoom tvhttp://185.236.229.62:9981/play/a02a
-3https://live.iptvxxx.net/siptarskaGOVNA.m3u8
+Zoom tv,http://185.236.229.62:9981/play/a02a
+3,https://live.iptvxxx.net/siptarskaGOVNA.m3u8
 极限,http://ali.hlspull.yximgs.com:80/live/3d439b3265603527a8895a6d10dcd6c3.flv
-台湾频道_38450,#genre#
+台湾频道,#genre#
 happy,http://ali.hlspull.yximgs.com:80/live/ec51ce790f89e431f88337cef4a78c6d.flv
 香蕉,http://ali.hlspull.yximgs.com:80/live/5f9475d108a8dc2a4c6f3645b54363bc.flv
 惊艳,http://ali.hlspull.yximgs.com:80/live/8380a44e9972f6ba846596ad36d48ca2.flv
@@ -23,7 +23,7 @@ e频道,http://ali.hlspull.yximgs.com:80/live/94ba4cbb5ccfa6610822f3565679cd51.f
 以上为临时源,https://cf005.paopao.video:443/8FD49DF7895AED29D436FF2D3A28828D6FD808FB
 无信号请重启软件,https://cf005.paopao.video:443/8FD49DF7895AED29D436FF2D3A28828D6FD808FB
 pigoo,https://luong.utako.moe/pigoo/index.m3u8 
-俄罗斯_38450,#genre#
+俄罗斯,#genre#
 EroLuxe Japanese,http://cdntv.online/high/ynemik5cl9/1694.mpeg
 femjoy,http://rhsbjv7k.tvclub.xyz/iptv/CE8B355427DHX5/6212/index.m3u8
 Playboy P,http://rhsbjv7k.tvclub.xyz/iptv/CE8B355427DHX5/6242/index.m3u8
@@ -2236,7 +2236,7 @@ VERIFIED AMATEURS: TESSA WINTERS,http://tv14s.xyz:8080/WzD7qQ/424962/160096
 VERIFIED AMATEURS: TINNA ANGEL,http://tv14s.xyz:8080/WzD7qQ/424962/160097
 VERIFIED AMATEURS: YINYLEON,http://tv14s.xyz:8080/WzD7qQ/424962/160098
 
-港台情色_38450,#genre#
+港台情色,#genre#
 东北往事之黑道风云二十年11,https://vip.ffzy-online4.com/20230404/18386_b159ee99/2000k/hls/mixed.m3u8
 东北往事之黑道风云二十年17,https://vip.lz-cdn16.com/20230731/33145_85f5b5e4/2000k/hls/mixed.m3u8
 销魂玉,https://hd.ijycnd.com/play/QdJqQ0ob/index.m3u8
@@ -2360,7 +2360,7 @@ VERIFIED AMATEURS: YINYLEON,http://tv14s.xyz:8080/WzD7qQ/424962/160098
 留住真情,https://jpzy01.com/20230106/JDeeat2r/index.m3u8#https://ckzy1com.com/20230106/JDeeat2r/1000kb/hls/index.m3u8
 淫贱女帝武则天,https://t.sziase.com/movie/20240530e76f52c302c24423/25464884.m3u8
 茶山春色,https://ckzy1com.com/20221217/XitsTZMj/index.m3u8
-亚洲情色_38450,#genre#
+亚洲情色,#genre#
 Asian.34,http://vip.mkrtv.com:8080/movie/Mario.Mayer.1986/nYFQDvXz93/21885.mp4
 Asian.35,http://vip.mkrtv.com:8080/movie/Mario.Mayer.1986/nYFQDvXz93/21886.mp4
 Asian.36,http://vip.mkrtv.com:8080/movie/Mario.Mayer.1986/nYFQDvXz93/21887.mp4
@@ -2458,7 +2458,7 @@ Asian.127,http://vip.mkrtv.com:8080/movie/Mario.Mayer.1986/nYFQDvXz93/21978.mp4
 Asian.128,http://vip.mkrtv.com:8080/movie/Mario.Mayer.1986/nYFQDvXz93/21979.mp4
 Asian.129,http://vip.mkrtv.com:8080/movie/Mario.Mayer.1986/nYFQDvXz93/21980.mp4
 Asian.130,http://vip.mkrtv.com:8080/movie/Mario.Mayer.1986/nYFQDvXz93/21981.mp4
-日韩影片_38450,#genre#
+日韩影片,#genre#
 carib363西川,https://fc.maa1808.com/b/ravxbmkthk/ravxbmkthk.m3u8
 Kpop Girl Does Porn,http://60106.vod.redtraffic.xyz/ph568fdb5194a8b/play.m3u8
 学生眼中的女老师,https://vip15.play-cdn15.com/20230830/24366_2f5cc427/index.m3u8
@@ -2468,7 +2468,6 @@ Kpop Girl Does Porn,http://60106.vod.redtraffic.xyz/ph568fdb5194a8b/play.m3u8
 JOA,https://2.ddyunbo.com/20190914/vL0TDJOa/index.m3u8
 1pon081712k,https://f005.paopao.video:443/C6AF681FDD0B9D9BFF8150630F0E1B56CF491DCD
 012823_001-1pon,https://f005.paopao.video:443/375BCA6C2E5BF6817E6778681D6535B5FE8318E7
-
 1pon_川原みのりエンドレスセックス,https://vip3.lbbf9.com/20220113/subsDqjy/1000kb/hls/index.m3u8
 1pon113017_612市来美保究極マゾ,https://www.lbbf9.com/20210617/BQKojYIM/700kb/hls/index.m3u8
 1pon113017_612市来美保究極マゾhttps://www.lbbf9.com/20210617/ox8fTZKt/700kb/hls/index.m3u8
@@ -2619,7 +2618,7 @@ heyzo1031,https://f005.paopao.video:443/0BD73681E256D14FEE871B6B5DC45D2C86DB1F9C
 一本道_396,https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8?skipl=1
 一本道_404,https://vip4.ddyunbo.com/20210202/cOf9FXgF/index.m3u8?skipl=1
 一本道_405,https://vip4.ddyunbo.com/20210202/jnSPf5L7/index.m3u8?skipl=1
-欧美影片_38450,#genre#
+欧美影片,#genre#
 1,https://v3587.cdn-d1.com/a98567b9b4cfb4e139bf7ecb04f5d985e6463f8b/i.yaeby.com/contents/videos/27000/27751/27751.mp4
 2,https://v1506.cdn-d1.com/a98567b9b4cfb4e139bfa73ac5bd2773a5dc0a04/i.yaeby.com/contents/videos/26000/26422/26422.mp4
 3,https://v166120.cdn-d1.com/a98567b9b4cfb4e139bf11504ec8262d7efead5b/i.yaeby.com/contents/videos/26000/26721/26721.mp4
