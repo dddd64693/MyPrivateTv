@@ -147,6 +147,13 @@
       "url": "https://raw.githubusercontent.com/sqspot/tac/refs/heads/main/json/YouTube2.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "MqitvLocal",
+      "type": 0,
+      "url": "http://125.105.212.47:13169/PLTV/mqlive/live.php?ip=60.248.127.232",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ]
 }
