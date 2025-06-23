@@ -34,7 +34,7 @@
       "name": "MQitv2",
       "api": "csp_MQiTV",
       "ua": "okhttp",
-      "ext": "	http://42.239.166.97:8899",
+      "ext": "	http://182.113.234.53:8899",
       "jar": "https://slink.ltd/https://raw.githubusercontent.com/sqspot/tac/refs/heads/main/jar/fmMQiTV.jar",
       "timeout": 30,
       "playerType": 1
