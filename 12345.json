@@ -25,7 +25,8 @@
       "api": "csp_MQiTV",
       "ua": "okhttp",
       "ext": "https://60.248.127.232:4433",
-      "jar": "https://slink.ltd/https://raw.githubusercontent.com/dddd64693/MyPrivateTv/refs/heads/main/custom_spider.jar",
+      "jar":
+"https://slink.ltd/https://raw.githubusercontent.com/sqspot/tac/refs/heads/main/jar/fmMQiTV.jar",
       "timeout": 30,
       "playerType": 1
       
