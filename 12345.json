@@ -167,6 +167,13 @@
       "url": "http://125.105.212.47:13169/PLTV/mqlive/live.php?ip=60.248.127.232",
       "epg": "http://104.168.30.104:5678/?ch={name}&date={date}?token=3317e9dbfa",
       "logo": "http://104.168.30.104:5678/?ch={name}&type=icon?token=3317e9dbfa"
+    },
+    {
+      "name": "4GTV",
+      "type": 0,
+      "url": "http://104.168.30.104:5678/tv.txt?token=3317e9dbfa",
+      "epg": "http://104.168.30.104:5678/?ch={name}&date={date}?token=3317e9dbfa",
+      "logo": "http://104.168.30.104:5678/?ch={name}&type=icon?token=3317e9dbfa"
     }
   ]
 }
