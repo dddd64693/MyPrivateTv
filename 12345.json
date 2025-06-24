@@ -171,6 +171,11 @@
     {
       "name": "4GTV",
       "type": 0,
+      "url": "http://144.24.75.197:50007/?type=m3uhttps://raw.githubusercontent.com/dddd64693/MyPrivateTv/refs/heads/main/Adult.m3u",
+    }
+    {
+      "name": "XXOO",
+      "type": 0,
       "url": "https://raw.githubusercontent.com/dddd64693/MyPrivateTv/refs/heads/main/Adult.m3u",
       "epg": "http://104.168.30.104:5678/?ch={name}&date={date}?token=3317e9dbfa",
       "logo": "http://104.168.30.104:5678/?ch={name}&type=icon?token=3317e9dbfa"
