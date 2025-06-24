@@ -24,7 +24,7 @@
       "timeout": 30,
       "playerType": 1,
       "epg": "http://104.168.30.104:5678/?ch={name}&date={date}",
-      "logo": "http://104.168.30.104:5678/?ch={name}&type=icon"
+      "logo": "http://104.168.30.104:5678/?ch={name}&type=icon?token=3317e9dbfa"
       
     },
 {
@@ -35,8 +35,8 @@
       "jar": "https://slink.ltd/https://raw.githubusercontent.com/sqspot/tac/refs/heads/main/jar/fmMQiTV.jar",
       "timeout": 30,
       "playerType": 1,
-      "epg": "http://104.168.30.104:5678/?ch={name}&date={date}",
-      "logo": "http://104.168.30.104:5678/?ch={name}&type=icon"
+      "epg": "http://104.168.30.104:5678/?ch={name}&date={date}?token=3317e9dbfa",
+      "logo": "http://104.168.30.104:5678/?ch={name}&type=icon?token=3317e9dbfa"
       
     },
 {
