@@ -1,6 +1,6 @@
 {
-  //"spider": "./custom_spider.jar",
-  "spider": "https://slink.ltd/https://raw.githubusercontent.com/dddd64693/MyPrivateTv/refs/heads/main/custom_spider.jar",
+  "spider": "./custom_spider.jar",
+ // "spider": "https://slink.ltd/https://raw.githubusercontent.com/dddd64693/MyPrivateTv/refs/heads/main/custom_spider.jar",
   "sites": [
 	{
             "key": "php_madou",
