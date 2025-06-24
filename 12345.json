@@ -49,7 +49,7 @@
       "name": "MQitv4",
       "api": "csp_MQiTV",
       "ua": "okhttp",
-      "ext": "http://60.250.121.217:5003",
+      "ext": "https://60.250.121.217:8443",
       "jar": "https://slink.ltd/https://raw.githubusercontent.com/dddd64693/MyPrivateTv/refs/heads/main/custom_spider.jar",
       "timeout": 30,
       "playerType": 1
