@@ -32,7 +32,7 @@
       "api": "csp_MQiTV",
       "ua": "okhttp",
       "ext": "http://182.113.234.53:8899",
-      "jar": "https://gh-proxy.com/raw.githubusercontent.com/sqspot/tac/refs/heads/main/jar/fmMQiTV.jar",
+      "jar": "https://gh-proxy.com/raw.githubusercontent.com/dddd64693/MyPrivateTv/refs/heads/main/custom_spider.jar",
       "timeout": 30,
       "playerType": 1,
       "epg": "http://104.168.30.104:5678/?ch={name}&date={date}?token=3317e9dbfa",
