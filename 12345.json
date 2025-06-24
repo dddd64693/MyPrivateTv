@@ -14,19 +14,13 @@
             "style": {"type": "rect", "ratio": 1.5}
      }
   ],
-  "lives": [{
-      "name": "快直播(python)",
-      "type": 3,
-      "api": "./kzb.py",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "ext": "68747470733a2f2f6a7a62356b716c6e2e6875616a69616564752e636f6d2f70726f642d6170692f697074762f676574497074764c697374"
-    },
+  "lives": [
 {
       "name": "MQitv",
       "api": "csp_MQiTV",
       "ua": "okhttp",
       "ext": "https://60.248.127.232:4433",
-      "jar":"https://slink.ltd/https://raw.githubusercontent.com/sqspot/tac/refs/heads/main/jar/fmMQiTV.jar",
+      "jar":"https://slink.ltd/https://raw.githubusercontent.com/dddd64693/MyPrivateTv/refs/heads/main/custom_spider.jar",
       "timeout": 30,
       "playerType": 1
       
@@ -36,7 +30,7 @@
       "api": "csp_MQiTV",
       "ua": "okhttp",
       "ext": "http://182.113.234.53:8899",
-      "jar": "https://files.catbox.moe/chvyo2.txt",
+      "jar": "https://slink.ltd/https://raw.githubusercontent.com/dddd64693/MyPrivateTv/refs/heads/main/custom_spider.jar",
       "timeout": 30,
       "playerType": 1
       
@@ -46,7 +40,7 @@
       "api": "csp_MQiTV",
       "ua": "okhttp",
       "ext": "https://59.125.210.231:4433",
-      "jar": "https://slink.ltd/https://raw.githubusercontent.com/sqspot/tac/refs/heads/main/jar/fmMQiTV.jar",
+      "jar": "https://slink.ltd/https://raw.githubusercontent.com/dddd64693/MyPrivateTv/refs/heads/main/custom_spider.jar",
       "timeout": 30,
       "playerType": 1
       
