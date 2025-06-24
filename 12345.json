@@ -23,7 +23,7 @@
       "jar":"https://slink.ltd/https://raw.githubusercontent.com/dddd64693/MyPrivateTv/refs/heads/main/custom_spider.jar",
       "timeout": 30,
       "playerType": 1,
-      "epg": "http://104.168.30.104:5678/?ch={name}&date={date}",
+      "epg": "http://104.168.30.104:5678/?ch={name}&date={date}?token=3317e9dbfa",
       "logo": "http://104.168.30.104:5678/?ch={name}&type=icon?token=3317e9dbfa"
       
     },
@@ -47,8 +47,8 @@
       "jar": "https://slink.ltd/https://raw.githubusercontent.com/dddd64693/MyPrivateTv/refs/heads/main/custom_spider.jar",
       "timeout": 30,
       "playerType": 1,
-      "epg": "http://104.168.30.104:5678/?ch={name}&date={date}",
-      "logo": "http://104.168.30.104:5678/?ch={name}&type=icon"
+      "epg": "http://104.168.30.104:5678/?ch={name}&date={date}?token=3317e9dbfa",
+      "logo": "http://104.168.30.104:5678/?ch={name}&type=icon?token=3317e9dbfa"
       
     },
 {
@@ -59,8 +59,8 @@
       "jar": "https://slink.ltd/https://raw.githubusercontent.com/dddd64693/MyPrivateTv/refs/heads/main/custom_spider.jar",
       "timeout": 30,
       "playerType": 1,
-      "epg": "http://104.168.30.104:5678/?ch={name}&date={date}",
-      "logo": "http://104.168.30.104:5678/?ch={name}&type=icon"
+      "epg": "http://104.168.30.104:5678/?ch={name}&date={date}?token=3317e9dbfa",
+      "logo": "http://104.168.30.104:5678/?ch={name}&type=icon?token=3317e9dbfa"
       
     },
     {
@@ -68,23 +68,23 @@
       "type": 0,
       "url": "https://tv.iill.top/m3u/Gather",
       "ua": "okhttp/3.15",
-      "epg": "http://104.168.30.104:5678/?ch={name}&date={date}",
-      "logo": "http://104.168.30.104:5678/?ch={name}&type=icon"
+      "epg": "http://104.168.30.104:5678/?ch={name}&date={date}?token=3317e9dbfa",
+      "logo": "http://104.168.30.104:5678/?ch={name}&type=icon?token=3317e9dbfa"
     },
     {
       "name": "香港mytv",
       "type": 0,
       "url": "https://json.doube.eu.org/Doubebly/MyTvSuper/",
-      "epg": "http://104.168.30.104:5678/?ch={name}&date={date}",
-      "logo": "http://104.168.30.104:5678/?ch={name}&type=icon"
+      "epg": "http://104.168.30.104:5678/?ch={name}&date={date}?token=3317e9dbfa",
+      "logo": "http://104.168.30.104:5678/?ch={name}&type=icon?token=3317e9dbfa"
 
     },
     {
       "name": "SMT直播",
       "type": 0,
       "url": "https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/smart2025.txt",
-      "epg": "http://104.168.30.104:5678/?ch={name}&date={date}",
-      "logo": "http://104.168.30.104:5678/?ch={name}&type=icon"
+      "epg": "http://104.168.30.104:5678/?ch={name}&date={date}?token=3317e9dbfa",
+      "logo": "http://104.168.30.104:5678/?ch={name}&type=icon?token=3317e9dbfa"
     },
     {
       "name": "SMT直播(python)",
@@ -105,44 +105,44 @@
       "name": "173",
       "type": 0,
       "url": "https://raw.githubusercontent.com/sqspot/tac/refs/heads/main/%E7%9B%B4%E6%92%AD%E6%BA%90/173.txt",
-      "epg": "http://104.168.30.104:5678/?ch={name}&date={date}",
-      "logo": "http://104.168.30.104:5678/?ch={name}&type=icon"
+      "epg": "http://104.168.30.104:5678/?ch={name}&date={date}?token=3317e9dbfa",
+      "logo": "http://104.168.30.104:5678/?ch={name}&type=icon?token=3317e9dbfa"
     },
     {
       "name": "私密花园",
       "type": 0,
       "url": "https://gitee.com/sji820/des/raw/master/0.jpg",
 	  "pass":"38450",
-      "epg": "http://104.168.30.104:5678/?ch={name}&date={date}",
-      "logo": "http://104.168.30.104:5678/?ch={name}&type=icon"
+      "epg": "http://104.168.30.104:5678/?ch={name}&date={date}?token=3317e9dbfa",
+      "logo": "http://104.168.30.104:5678/?ch={name}&type=icon?token=3317e9dbfa"
     },
     {
       "name": "秘密花园MyPrivate",
       "type": 0,
       "url": "https://raw.githubusercontent.com/dddd64693/MyPrivateTv/refs/heads/main/%E7%A7%98%E5%AF%86%E8%8A%B1%E5%9B%ADMyPrivate.txt",
-      "epg": "http://104.168.30.104:5678/?ch={name}&date={date}",
-      "logo": "http://104.168.30.104:5678/?ch={name}&type=icon"
+      "epg": "http://104.168.30.104:5678/?ch={name}&date={date}?token=3317e9dbfa",
+      "logo": "http://104.168.30.104:5678/?ch={name}&type=icon?token=3317e9dbfa"
     },
 	{
       "name": "私密花园2",
       "type": 0,
       "url": "https://raw.githubusercontent.com/sqspot/tac/refs/heads/main/%E7%9B%B4%E6%92%AD%E6%BA%90/%E7%A7%81%E5%AF%86%E8%8A%B1%E5%9B%AD.txt",
-      "epg": "http://104.168.30.104:5678/?ch={name}&date={date}",
-      "logo": "http://104.168.30.104:5678/?ch={name}&type=icon"
+      "epg": "http://104.168.30.104:5678/?ch={name}&date={date}?token=3317e9dbfa",
+      "logo": "http://104.168.30.104:5678/?ch={name}&type=icon?token=3317e9dbfa"
     },
 	{
       "name": "live2",
       "type": 0,
       "url": "https://raw.githubusercontent.com/sqspot/tac/refs/heads/main/%E7%9B%B4%E6%92%AD%E6%BA%90/live2.txt",
-      "epg": "http://104.168.30.104:5678/?ch={name}&date={date}",
-      "logo": "http://104.168.30.104:5678/?ch={name}&type=icon"
+      "epg": "http://104.168.30.104:5678/?ch={name}&date={date}?token=3317e9dbfa",
+      "logo": "http://104.168.30.104:5678/?ch={name}&type=icon?token=3317e9dbfa"
     },
 	{
       "name": "167",
       "type": 0,
       "url": "https://raw.githubusercontent.com/sqspot/tac/refs/heads/main/%E7%9B%B4%E6%92%AD%E6%BA%90/167.txt",
-      "epg": "http://104.168.30.104:5678/?ch={name}&date={date}",
-      "logo": "http://104.168.30.104:5678/?ch={name}&type=icon"
+      "epg": "http://104.168.30.104:5678/?ch={name}&date={date}?token=3317e9dbfa",
+      "logo": "http://104.168.30.104:5678/?ch={name}&type=icon?token=3317e9dbfa"
     },
     {
       "name": "javday.app",
@@ -158,15 +158,15 @@
       "name": "youtube",
       "type": 0,
       "url": "https://raw.githubusercontent.com/sqspot/tac/refs/heads/main/json/YouTube2.txt",
-      "epg": "http://104.168.30.104:5678/?ch={name}&date={date}",
-      "logo": "http://104.168.30.104:5678/?ch={name}&type=icon"
+      "epg": "http://104.168.30.104:5678/?ch={name}&date={date}?token=3317e9dbfa",
+      "logo": "http://104.168.30.104:5678/?ch={name}&type=icon?token=3317e9dbfa"
     },
     {
       "name": "MqitvLocal",
       "type": 0,
       "url": "http://125.105.212.47:13169/PLTV/mqlive/live.php?ip=60.248.127.232",
-      "epg": "http://104.168.30.104:5678/?ch={name}&date={date}",
-      "logo": "http://104.168.30.104:5678/?ch={name}&type=icon"
+      "epg": "http://104.168.30.104:5678/?ch={name}&date={date}?token=3317e9dbfa",
+      "logo": "http://104.168.30.104:5678/?ch={name}&type=icon?token=3317e9dbfa"
     }
   ]
 }
