@@ -171,7 +171,7 @@
     {
       "name": "4GTV",
       "type": 0,
-      "url": "http://104.168.30.104:5678/tv.txt?token=3317e9dbfa",
+      "url": "https://raw.githubusercontent.com/dddd64693/MyPrivateTv/refs/heads/main/Adult.m3u",
       "epg": "http://104.168.30.104:5678/?ch={name}&date={date}?token=3317e9dbfa",
       "logo": "http://104.168.30.104:5678/?ch={name}&type=icon?token=3317e9dbfa"
     }
