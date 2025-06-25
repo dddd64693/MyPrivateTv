@@ -178,7 +178,7 @@
     {
       "name": "江苏联通",
       "type": 0,
-      "url": "https://raw.githubusercontent.com/lesca/jiangsu-iptv/main/iptv_js_full-latest.m3u",
+      "url": "https://raw.githubusercontent.com/dddd64693/jiangsu-iptv/refs/heads/main/iptv_js_full-latest.m3u",
       "epg": "http://104.168.30.104:5678/?ch={name}&date={date}?token=3317e9dbfa",
       "logo": "http://104.168.30.104:5678/?ch={name}&type=icon?token=3317e9dbfa"
     }
