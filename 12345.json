@@ -176,6 +176,13 @@
       "logo": "http://104.168.30.104:5678/?ch={name}&type=icon?token=3317e9dbfa"
     },
     {
+      "name": "XXOO2",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/slasjh/xlive/refs/heads/main/live.txt",
+      "epg": "http://104.168.30.104:5678/?ch={name}&date={date}?token=3317e9dbfa",
+      "logo": "http://104.168.30.104:5678/?ch={name}&type=icon?token=3317e9dbfa"
+    },
+    {
       "name": "江苏联通",
       "type": 0,
       "url": "https://raw.githubusercontent.com/dddd64693/jiangsu-iptv/refs/heads/main/iptv_js_full-latest.m3u",
