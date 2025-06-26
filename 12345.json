@@ -12,7 +12,23 @@
             "filterable": 0,
             "changeable": 0,
             "style": {"type": "rect", "ratio": 1.5}
-     }
+     },
+{
+  "key": "WebDAV",
+  "name": "WebDAV",
+  "type": 3,
+  "api": "csp_WebDAV",
+  "searchable": 1,
+  "changeable": 0,
+  "ext": [
+    {
+      "name": "openalist",
+      "server": "http://158.178.143.209:5244/dav",
+      "user": "admin",
+      "pass": "nQG4ZdWhDa4kfy4"
+    }
+  ]
+}
   ],
   "lives": [
 {
