@@ -13,7 +13,7 @@
             "changeable": 0,
             "style": {"type": "rect", "ratio": 1.5}
      },
-  {
+	{
       "key": "alist",
       "name": "alist网盘",
       "type": 3,
@@ -30,8 +30,52 @@
       "username": "admin",
       "password": "nQG4ZdWhDa4kfy4"
        }
-      }
-     ]
+     }
+		]
+    },
+{
+      "key": "pikpak",
+      "name": "PikPak资源站合集",
+      "type": 3,
+      "api": "csp_PikPak",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": [
+        { "name": "无码流出", "url": "https://mypikpak.com/s/VNU_LtkwJxIH-Z8BdmnvBSRco1" },
+        { "name": "Sukebei", "url": "https://mypikpak.com/s/VNTS5lxi8GICdZuOHFMs6v62o1" },
+        { "name": "JapanHDV", "url": "https://mypikpak.com/s/VNSkrjJwm_1qJ3-F6UAjx5keo1" },
+        { "name": "kebei", "url": "https://mypikpak.com/s/VNRcUOm1CfOipBFoWCX5ze_Io1" },
+        { "name": "JAVHD-1", "url": "https://mypikpak.com/s/VNSkLdbYCVr60cvXH2SFHFZMo1" },
+        { "name": "JAVHD-2", "url": "https://mypikpak.com/s/VNSkXGZHfjBNMe2QeCYe_BeWo1" },
+        { "name": "JAVHD-3", "url": "https://mypikpak.com/s/VNSkaFCaTmv_e5rMH4yBOR5ko1" },
+        { "name": "JAVHD-4", "url": "https://mypikpak.com/s/VNNC7fVl-BUEYOWOgnEEYLOXo1" },
+        { "name": "JAVHD-5", "url": "https://mypikpak.com/s/VNNC8sHriw-tJEISTvv8aeu3o1" },
+        { "name": "JAVHD-6", "url": "https://mypikpak.com/s/VNNCE73t-BUEYOWOgnEE_XRRo1" },
+        { "name": "小姐姐合集/JAV·合集一", "url": "https://mypikpak.com/s/VNRTJmtoUU9njJORhurw11yno1" },
+        { "name": "小姐姐合集/JAV·合集二", "url": "https://mypikpak.com/s/VNRTK-coQgqv_6lSY5Z77EsTo1" },
+        { "name": "小姐姐合集/JAV·合集三", "url": "https://mypikpak.com/s/VNRTKZ_XBGyw1kt1HkijOLdEo1" },
+        { "name": "小姐姐合集/JAV·合集四", "url": "https://mypikpak.com/s/VNRTKxEQg3b_VYsn0bCwpIU4o1" },
+        { "name": "小姐姐合集/JAV·合集五", "url": "https://mypikpak.com/s/VNRTLKT9roRROhEkho_4rljgo1" },
+        { "name": "小姐姐合集/JAV·合集六", "url": "https://mypikpak.com/s/VNRTL_5Xg3b_VYsn0bCwpQ5Ho1" },
+        { "name": "小姐姐合集/JAV·合集七", "url": "https://mypikpak.com/s/VNRTLn0oLmyyX7yiCb6t4x21o1" },
+        { "name": "小姐姐合集/JAV·合集八", "url": "https://mypikpak.com/s/VNRTLxzUUU9njJORhurw2-mfo1" },
+        { "name": "小姐姐合集/JAV·合集九", "url": "https://mypikpak.com/s/VNRTMAMwyM2NQYlKo78MGnSjo1" },
+        { "name": "小姐姐合集/JAV·合集十", "url": "https://mypikpak.com/s/VNRTMMUlyM2NQYlKo78MGusso1" },
+        { "name": "小姐姐合集/JAV·合集十一", "url": "https://mypikpak.com/s/VNRlNLARLmyy1Vm25CJPpc0Xo1" },
+        { "name": "小姐姐合集/JAV·合集十二", "url": "https://mypikpak.com/s/VNRTMkXeCfOi1Zl2Ft25WvKoo1" },
+        { "name": "小姐姐合集/JAV·合集十三", "url": "https://mypikpak.com/s/VNRTN6USg3b_VYsn0bCwpjsoo1" },
+        { "name": "小姐姐合集/JAV·合集十四", "url": "https://mypikpak.com/s/VNRTNIk9CfOi1Zl2Ft25X4kEo1" },
+        { "name": "小姐姐合集/JAV·合集十五", "url": "https://mypikpak.com/s/VNRTNUm4Qgqv_6lSY5Z78-NZo1" },
+        { "name": "小姐姐合集/JAV·合集十六", "url": "https://mypikpak.com/s/VNRTNg-1roRROhEkho_4sEJSo1" },
+        { "name": "小姐姐合集/JAV·合集十七", "url": "https://mypikpak.com/s/VNRTNzlRg3b_VYsn0bCwpu1Xo1" },
+        { "name": "小姐姐合集/AV·合集一", "url": "https://mypikpak.com/s/VNRTOE3uLmyyX7yiCb6t5Rpjo1" },
+        { "name": "小姐姐合集/[短视频]慢更中20", "url": "https://mypikpak.com/s/VNRTOYLHLmyyX7yiCb6t5WnHo1" },
+        { "name": "小姐姐合集/已整理", "url": "https://mypikpak.com/s/VNRTOvHXLmyyX7yiCb6t5ajbo1" },
+        { "name": "小姐姐合集/未分类", "url": "https://mypikpak.com/s/VNRcUOm1CfOipBFoWCX5ze_Io1" },
+        { "name": "10TB的溫暖夢想", "url": "https://mypikpak.com/s/VN7POm7LowF1qF1kF49QLNXxo1" },
+        { "name": "日本學習", "url": "https://mypikpak.com/s/VNCPXiB0Ku8QWqR3EVQfzTpEo1" }
+      ]
     }
   ],
   "lives": [
