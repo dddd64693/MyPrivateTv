@@ -25,7 +25,7 @@
   "ext": [
     {
       "name": "openalist",
-      "server": "https://alist.sdtec.eu.org:5244",
+      "server": "https://alist.sdtec.eu.org",
       "login": {
       "username": "admin",
       "password": "SD_tec1234"
